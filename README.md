@@ -9,8 +9,12 @@
 5. Install python dependencies `pip install -r requirements.txt`
 6. Follow the directions in the python scripts
 
+## Read More
+
+Read all the documentation at https://doc.brainchipinc.com
+
 ### Image Source
 
 Images are from:
-1. https://www.freeimages.com/
+1. https://www.freeimages.com
 2. https://pexels.com
