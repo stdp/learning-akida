@@ -1,0 +1,6 @@
+tensorflow_datasets 
+akida
+cnn2snn
+akida-models
+pillow
+matplotlib
