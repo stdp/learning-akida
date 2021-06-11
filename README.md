@@ -1,5 +1,7 @@
 # Learning how to use the Akida Execution Engine
 
+This is an extremely basic introduction to utlising the Akida Execution engine. Step through this guide to learn the different stages of creating an Akida model and then running inference over a few images. The source images are being scaled and distorted because this was a quick demo.
+
 ## Setting up the Akida development evironment
 
 1. Go to `https://www.anaconda.com/download/` and download intaller
